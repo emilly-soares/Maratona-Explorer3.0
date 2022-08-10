@@ -5,8 +5,10 @@ Cardápio Virtual - Desenvolvido no curso: Maratona Explorer 3.0 - Rocketseat
 	🚧 🚀 Em construção ...  🚧
 </h4>
 
+<p><a href="https://vocal-kleicha-170735.netlify.app/">Deploy</a></p>
+
 <p align="center">
-<a href="#TecnologiaS">TecnologiaS</a> •
+<a href="#TecnologiaS">Tecnologias</a> •
 </p>
 
 ### Tecnologias
