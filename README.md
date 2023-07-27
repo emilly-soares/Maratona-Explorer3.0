@@ -14,5 +14,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - HTML
 - CSS
 
+![Capturar](https://github.com/emilly-soares/Maratona-Explorer3.0/assets/54116441/5690d21e-1c3b-44be-a523-3b79fba9d453)
+
 Autor
 Feito por Emilly Soares 👋🏽 Entre em contato!🚀
